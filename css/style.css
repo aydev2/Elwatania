@@ -1,0 +1,47 @@
+.who{
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.who h1{
+    font-weight: bolder;
+}
+.who p{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.navbar-brand img{
+    width: 50px;
+} 
+.mains{
+    font-weight: bolder;
+}
+ul{
+    text-align: right;
+    padding-right: 10px;
+}
+.mainsy{
+    font-weight: bolder;
+    color: white;
+    padding-bottom: 15px;
+}
+.mainsys{
+    font-weight: bold;
+    color: white;
+    padding-bottom: 15px;
+}
+body{
+    overflow-x: hidden;
+}
+.btns a img{
+    width: 50px;
+}
+@media (max-width: 1000px) {
+    .btns a img{
+        width: 30px;
+    }
+}
+.mainsys{
+    text-decoration: none;
+    font-size: 25px;
+}
